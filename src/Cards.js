@@ -10,6 +10,7 @@ import "bootstrap/dist/css/bootstrap.css";
                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
             </div>
     </div>
+
     <div class="card">
         <img src="..." class="card-img-top" alt="...">
             <div class="card-body">
@@ -18,6 +19,7 @@ import "bootstrap/dist/css/bootstrap.css";
                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
             </div>
     </div>
+
     <div class="card">
         <img src="..." class="card-img-top" alt="...">
             <div class="card-body">
