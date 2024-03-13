@@ -1,5 +1,5 @@
 import React from 'react';
-import "bootstrap/dist/css/bootstrap.min.css";
+
 const Cards = () => {
     return (
         <div class="card-group">
